@@ -1,4 +1,9 @@
 # Frontend Task
+Designed the user interface provided in the image. Used the colours which was there in the image and designed the components presented in the image only.
+
+## Deployment Link
+https://frontend-task-gray.vercel.app/
+
 
 ## Project Demo
 
